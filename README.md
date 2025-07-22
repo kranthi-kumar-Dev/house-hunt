@@ -53,7 +53,7 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/kranthi-kumar-dev/house-hunt.dev
+git clone https://github.com/kranthi-kumar-Dev/house-hunt
 
 npm install
 
